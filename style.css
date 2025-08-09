@@ -1,0 +1,305 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    list-style: none;
+}
+.container{
+    max-width: 1440px;
+    margin: 0% auto;
+}
+
+.boxses{
+    width:1920px ;
+    height: 875px;
+    background-image: url(./1\ \(1\).png);
+    margin: 0% auto;
+    margin-top: 30px;
+    
+}
+
+a{
+    font-family: Open Sans;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 12px;
+line-height: 160%;
+letter-spacing: 0%;
+text-transform: uppercase;
+color: white;
+}
+
+a:hover{
+    color: #F57520;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 43px;
+}
+
+header ul{
+    display: flex;
+    gap: 32px;
+}
+
+.card{
+    display: flex;
+    gap: 24px;
+}
+
+.img1{
+    padding-left: 30px;
+}
+
+.card1{
+    width: 679px;
+    height: 454px;
+    margin-left: 250px;
+    margin-top: 80px;
+}
+
+h1{
+    font-family: Open Sans;
+font-weight: 700;
+font-style: Bold;
+font-size: 96px;
+line-height: 123%;
+letter-spacing: 2%;
+color: white;
+
+}
+
+.card1 p{
+    font-family: Open Sans;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 18px;
+line-height: 160%;
+letter-spacing: 1%;
+color: white;
+padding: 48px 0px;
+
+}
+
+.btn{
+    padding: 16px 45px;
+    border-radius: 10px;
+    border: none;
+    background-color: #F57520;
+    color: white;
+    font-family: Open Sans;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 16px;
+line-height: 123%;
+letter-spacing: 0%;
+text-align: right;
+
+}
+
+h2{
+    font-family: Open Sans;
+font-weight: 800;
+font-style: ExtraBold;
+font-size: 64px;
+line-height: 123%;
+letter-spacing: 5%;
+text-align: center;
+color: #101010;
+padding-top: 60px;
+}
+
+.section2{
+    width: 1920px;
+    height: 1358px;
+    background-color: gray;
+    margin: 0% auto;
+}
+
+.box{
+    width: 400px;
+    height: 462px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.box h4{
+    font-family: Open Sans;
+font-weight: 800;
+font-style: ExtraBold;
+font-size: 16px;
+line-height: 160%;
+letter-spacing: 0%;
+padding: 24px 27px;
+color: white;
+
+}
+
+.box p{
+    font-family: Open Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+line-height: 160%;
+letter-spacing: 1%;
+padding-left: 27px;
+color: white;
+}
+
+.karol{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px 40px;
+    margin-top: 170px;
+    padding-left: 200px;
+}
+
+.box:hover{
+    background-color: #F57520;
+}
+
+
+.section3{
+    width: 1920px;
+    height: 686px;
+    margin: 0% auto;
+    background-image: url(./image\ 86\ \(1\).png);
+    background-size: cover;
+}
+
+
+h3{
+font-family: Open Sans;
+font-weight: 800;
+font-style: ExtraBold;
+font-size: 40px;
+line-height: 123%;
+letter-spacing: 5%;
+color: white;
+width: 620px;
+height: 98px;
+padding: 52px 320px;
+}
+
+input{
+    width: 302px;
+    height: 46px;
+    border-radius: 10px;
+    border: none;
+    color: #B3B3B3;
+}
+
+::placeholder{
+    padding: 10px 16px;
+}
+
+.lianer{
+    padding: 50px 302px;
+    display: flex;
+    gap: 16px;
+}
+
+.lianer2{
+    padding-left: 302px;
+    display: flex;
+    grid-gap: 16px;
+}
+
+textarea{
+ width: 608px;
+ height: 154px;
+ border: none;
+ padding: 10px 16px;
+margin-left: 302px;
+margin-top: 16px;
+ font-family: Open Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 160%;
+letter-spacing: 0%;
+color: #B3B3B3;
+border-radius: 10px; 
+}
+
+.btn2{
+    padding: 16px 245px;
+    border: none;
+    border-radius: 10px;
+    font-family: Open Sans;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 16px;
+line-height: 123%;
+letter-spacing: 0%;
+text-align: right;
+color: #F57520;
+width: 608px;
+}
+
+.wrap{
+    margin: 24px 302px;
+}
+
+.section4{
+    width: 1920px;
+    height: 500px;
+    margin: 0% auto;
+}
+
+footer{
+    width: 1920px;
+    height: 370px;
+    background-color: #101010;
+    margin: 0% auto;
+}
+
+.asas a{
+    font-family: Open Sans;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+line-height: 160%;
+letter-spacing: 1%;
+}
+
+.asas p{
+    font-family: Open Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+line-height: 160%;
+letter-spacing: 0%;
+color: white;
+padding-top: 32px;
+}
+
+.wewe{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 102px;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
